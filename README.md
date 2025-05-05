@@ -12,33 +12,33 @@ The provided dataset contains well logs, interpreted lithofacies and lithostrati
 ## Logs Interpretations Description
 ### The data contains the metadata columns:
 
-WELL: Well Name
-DEPTH_MD: Measured Depth
-X_LOC: UTM X Coordinate
-Y_LOC: UTM Y Coordinate
-Z_LOC: DEPTH
-GROUP: NPD lithostratigraphy group
-FORMATION: NPD lithostratgraphy formation
+* WELL: Well Name
+* DEPTH_MD: Measured Depth
+* X_LOC: UTM X Coordinate
+* Y_LOC: UTM Y Coordinate
+* Z_LOC: DEPTH
+* GROUP: NPD lithostratigraphy group
+* FORMATION: NPD lithostratgraphy formation
 
 ### The data contains the well log curves:
 
-BS: Bit Size
-CALI: Caliper Log
-DCAL: Differential Caliper log
-RDEP: Deep Resistivity
-RMED: Medium Resistivity
-RSHA: Shallow Resistivity
-RXO: Flushed Zone Resistivity
-RHOB: Bulk Density
-GR: Raw Gamma Ray
-SGR: Spectral Gamma Ray
-SP: Spontaneous Potential
-ROP: Rate of Penetration
-ROPA: Average Rate of Penetration
-NPHI: Neutron Porosity
-PEF: Photoelectric Absorption Factor
-RMIC: Micro Resistivity
-DTS: Sonic (Shear Wave)
-DTC: Sonic (Compressional Wave)
-DRHO: Density Correction Log
-MUDWEIGHT: Weight of Drilling Fluid
+* BS: Bit Size
+* CALI: Caliper Log
+* DCAL: Differential Caliper log
+* RDEP: Deep Resistivity
+* RMED: Medium Resistivity
+* RSHA: Shallow Resistivity
+* RXO: Flushed Zone Resistivity
+* RHOB: Bulk Density
+* GR: Raw Gamma Ray
+* SGR: Spectral Gamma Ray
+* SP: Spontaneous Potential
+* ROP: Rate of Penetration
+* ROPA: Average Rate of Penetration
+* NPHI: Neutron Porosity
+* PEF: Photoelectric Absorption Factor
+* RMIC: Micro Resistivity
+* DTS: Sonic (Shear Wave)
+* DTC: Sonic (Compressional Wave)
+* DRHO: Density Correction Log
+* MUDWEIGHT: Weight of Drilling Fluid
